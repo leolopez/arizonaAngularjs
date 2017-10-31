@@ -15,4 +15,4 @@ node index.js
 go to the application server as follow: http://localhost:3000/
 
 
--- an angularjs responsive app using boostrap 4, node.js, expressjs, html5, css3 and angularjs includes an image slider
+-- an angularjs responsive app using boostrap 4, node.js, expressjs, html5 and css3 includes an image slider
