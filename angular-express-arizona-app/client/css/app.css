@@ -1,0 +1,215 @@
+.content{  
+ 	width: 96.5% !important;
+    margin-left: 3.5%;
+ border-top-width: 0px ;
+ border-bottom-width: 0px ;
+    border-color: black  ;
+    height: 192%;
+    position: fixed;
+    width: 100%;
+padding: 0px 85px 0px 15px;
+min-width: 255px;
+z-index: 2; 
+padding-right: 6.5% !important;
+}
+.p-header{  
+	padding-left: 20px;
+}
+.img-container{  
+	margin-left: 15px;
+	max-width: 96% !important;
+	padding-right: 0px !important;
+	height: 120%;
+}
+img{  
+	width: 100%;
+	height: 100%;
+} 
+.detail-list{  
+	margin-left: 60px;
+}
+.p-deatils{  
+	margin-bottom: 0px;
+}
+
+.p-header-title{  
+    margin-bottom: 0px;
+    margin-top: 23px;
+    color: darkred;
+    font-size: 22px;
+}
+
+
+.img-slider{  
+    height: 39% !important;
+    width: 100%;
+}
+
+.p-home{  
+    padding-top: 15px;
+}
+.contact-container{  
+    padding-top: 15px;
+    max-width: 59.666667% !important;
+}
+.contact-button{  
+    width: 100%;
+    background-color: orangered !important;
+    border-color: orangered !important;
+    min-width: 20%;
+}
+.app-bold{  
+    font-weight: bold;
+}
+.img-slider-text{  
+    position: absolute;
+    top: 20%;
+    left: 34%;
+    font-size: 48px;
+    color: darkgray;
+    font-weight: bold;
+}
+.img-slider-btn{  
+    position: absolute;
+    top: 38%;
+    right: 15vh;
+    width: 72px;
+    height: 27px;
+    font-size: 12px !important;
+    padding: 0px 0px 0px 0px !important;
+    background-color: orange !important;
+    border-color: orange !important;
+    color: black !important;
+}
+.custom-modal{  
+    width: 50% !important;
+    left: 24%;
+	border-radius: 35px !important;
+}
+.custom-modal-dialog{  
+    top: 18%;
+}
+.modal-input{  
+    float: right;
+    width: 63%;
+    margin-right: 10px;
+}
+.custom-form-group{  
+    margin-bottom: 0.3rem;
+}
+.custom-modal-footer{  
+    border-top: none !important;
+    padding-top: 0px !important;
+    padding-bottom: 9px !important;
+}
+.custom-modal-header {  
+    border-bottom: 0px !important;
+    padding-bottom: 0px !important;
+    padding-top: 3px !important;
+}
+.custom-modal-body {  
+    padding-top: 0px !important;
+    padding-bottom: 5px !important;
+}
+button {  
+    color: white;
+    background-color: orangered;
+}
+.custom-modal-header h4{  
+    margin-left: 33%;
+    font-size: 14px;
+}
+.modal-label{  
+    padding-left: 3px;
+}
+
+ul{  
+    list-style: square;
+}
+ul li{  
+    line-height: 18px;
+}
+    
+.carousel-inner {  
+    height: 100% !important;
+}   
+.carousel {  
+    height: 97% !important;
+}   
+.carousel-item{  
+    height: 100% !important;
+}  
+.carousel-indicators{  
+    bottom: -35px !important;
+}  
+/* round li for slider */ 
+ .carousel-indicators li{  
+    background-color: white !important;
+    border-width: 1px;
+    border-color: gray;
+    border-style: solid;
+    height: 14px !important;
+    border-radius: 45px !important;
+    max-width: 14px !important;
+}
+.carousel-indicators li.active{  
+    background-color: black !important;
+    border-color: black !important;
+} 
+.p-description1{ 
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+}  
+.p-title1{
+	margin-top: 12px;  
+}  
+p{  
+    line-height: normal;
+}
+.app-right-container{  
+    position: fixed;
+    left: 94.5%;
+    width: 4.0%;
+    height: 100vh;
+    background-color: black; 
+}
+.app-left-container{ 
+    width: 3.5%;
+    height: 100vh;
+    background-color: black;
+    float: left; 
+}
+.app-content .content{ 
+    overflow-y: scroll;
+    height: 100vh;
+	overflow-x: hidden;
+    padding-bottom: 25px;
+}
+
+.details-container-left{ 
+    margin-left: 0px;
+}
+.details-container-right{ 
+    padding-right: 0px;
+}
+.details-img{ 
+    max-width: none;
+}
+.detail-img{  
+	height: 120%;
+}
+.modal-btns{  
+	width: 100%;
+     text-align: center;
+}
+.modal-btn1{  
+	margin-right: 20%;
+}
+    
+
+    
+
+    
+       
